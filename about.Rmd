@@ -1,0 +1,7 @@
+---
+title: "About Me"
+---
+
+- __Name:__ Fatin Afandi
+- __Position:__ Student
+- __Affiliation:__ Accountancy UiTM
