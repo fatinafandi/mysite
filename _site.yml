@@ -8,4 +8,4 @@ navbar:
     - text: "About Me"
       href: about.html
     - text: "Info"
-      href: info.Rmd
+      href: info.html
