@@ -1,0 +1,6 @@
+---
+title: " My Info"
+---
+
+- __phone number:__ 017-2222222
+- __email:__ ftainfatinfatin@gmail.com
